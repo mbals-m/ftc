@@ -1,0 +1,8 @@
+{
+  "name": "FirtashCoin",
+  "symbol": "FTC",
+  "decimals": 9,
+   "extensions": {
+    "website": "https://firtashcoin.com",
+    }
+}
